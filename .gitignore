@@ -1,3 +1,10 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter_ystore.db
+
+# opencode chat files
+*.chat
